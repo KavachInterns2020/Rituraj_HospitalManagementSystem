@@ -1,1 +1,1 @@
-# Rituraj_HospitalManagementSystem
+# Rituraj_HospitalManagementSystem UML Diagram
